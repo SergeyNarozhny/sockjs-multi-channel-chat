@@ -1,0 +1,18 @@
+{
+  "name": "sockjs-multi-channel-chat",
+  "version": "0.0.1",
+  "description": "",
+  "main": "lib/index.js",
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "jquery": "latest",
+    "moment": "^2.17.1",
+    "redis": "^2.6.5",
+    "sockjs": "^0.3.18"
+  },
+  "devDependencies": {
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
